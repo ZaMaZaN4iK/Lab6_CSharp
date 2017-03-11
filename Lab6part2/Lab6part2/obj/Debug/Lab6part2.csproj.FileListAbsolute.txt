@@ -1,0 +1,18 @@
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\Lab6part2\Lab6part2\bin\Debug\Lab6part2.exe.config
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\Lab6part2\Lab6part2\bin\Debug\Lab6part2.exe
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\Lab6part2\Lab6part2\bin\Debug\Lab6part2.pdb
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\Lab6part2\Lab6part2\obj\Debug\Lab6part2.csprojResolveAssemblyReference.cache
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\Lab6part2\Lab6part2\obj\Debug\Lab6part2.Form1.resources
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\Lab6part2\Lab6part2\obj\Debug\Lab6part2.Properties.Resources.resources
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\Lab6part2\Lab6part2\obj\Debug\Lab6part2.csproj.GenerateResource.Cache
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\Lab6part2\Lab6part2\obj\Debug\Lab6part2.exe
+C:\Users\Nikita\Documents\Visual Studio 2015\Projects\Lab6part2\Lab6part2\obj\Debug\Lab6part2.pdb
+C:\Users\Nikita\Google Диск\C# (Пацей Н.В.)\Лабы\Lab6part2\Lab6part2\bin\Debug\Lab6part2.exe.config
+C:\Users\Nikita\Google Диск\C# (Пацей Н.В.)\Лабы\Lab6part2\Lab6part2\obj\Debug\Lab6part2.exe
+C:\Users\Nikita\Google Диск\C# (Пацей Н.В.)\Лабы\Lab6part2\Lab6part2\obj\Debug\Lab6part2.pdb
+C:\Users\Nikita\Google Диск\C# (Пацей Н.В.)\Лабы\Lab6part2\Lab6part2\bin\Debug\Lab6part2.exe
+C:\Users\Nikita\Google Диск\C# (Пацей Н.В.)\Лабы\Lab6part2\Lab6part2\bin\Debug\Lab6part2.pdb
+C:\Users\Nikita\Google Диск\C# (Пацей Н.В.)\Лабы\Lab6part2\Lab6part2\obj\Debug\Lab6part2.csprojResolveAssemblyReference.cache
+C:\Users\Nikita\Google Диск\C# (Пацей Н.В.)\Лабы\Lab6part2\Lab6part2\obj\Debug\Lab6part2.Form1.resources
+C:\Users\Nikita\Google Диск\C# (Пацей Н.В.)\Лабы\Lab6part2\Lab6part2\obj\Debug\Lab6part2.Properties.Resources.resources
+C:\Users\Nikita\Google Диск\C# (Пацей Н.В.)\Лабы\Lab6part2\Lab6part2\obj\Debug\Lab6part2.csproj.GenerateResource.Cache
